@@ -4,7 +4,7 @@
   "description": "A basic electron demo",
   "main": "electron/main.js",
   "scripts": {
-    "start": "electron .",
+    "start": "webpack && electron .",
     "test": "echo \"Error: no test specified\" && exit 1",
     "webpack": "webpack"
   },
