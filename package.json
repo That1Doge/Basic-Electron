@@ -15,6 +15,7 @@
     "@babel/preset-react": "^7.28.5",
     "@electron/packager": "^18.4.4",
     "babel-loader": "^10.0.0",
+    "electron": "^45.2.2",
     "terser-webpack-plugin": "^5.3.14",
     "webpack": "^5.102.1",
     "webpack-cli": "^6.0.1"
